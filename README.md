@@ -29,11 +29,9 @@ So I don't just build reports. I make sure they answer the right questions.
 
 | Project | Type | Tools |
 |---|---|---|
-| [Logistics Operations Dashboard](https://github.com/phamhuong-da/logistics-dashboard-powerbi) | Data Analytics | Power BI · SQL · AI Automation |
+| [Logistics Operations Dashboard](https://github.com/phamhuong-da/logistics-dashboard-powerbi) | Data Analytics | Power BI · SQL · DAX · AI Automation |
 | [BA — Logistics TDI: Quy đổi Ngoại tệ & Kỳ Bảng kê](https://github.com/phamhuong-da/xuat-nhap-khau-ba) | Business Analysis | SRS · Use Case · BPMN · Figma |
-| [Student Study Abroad Management — BA](https://github.com/phamhuong-da/du-hoc-sinh-management-ba) | Business Analysis | Use Case · UAT · Notion |
-
----
+| [BA — Hệ thống Học tập MVGC](https://github.com/phamhuong-da/du-hoc-sinh-management-ba) | Business Analysis | Use Case · Figma · Draw.io · Stripe · Zoom |
 
 ## 📬 Get in touch
 
