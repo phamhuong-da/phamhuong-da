@@ -32,7 +32,7 @@ So I don't just build reports. I make sure they answer the right questions.
 | [Logistics Operations Dashboard](https://github.com/phamhuong-da/logistics-dashboard-powerbi) | Data Analytics | Power BI · SQL · DAX · AI Automation |
 | [BA — Logistics TDI: Quy đổi Ngoại tệ & Kỳ Bảng kê](https://github.com/phamhuong-da/xuat-nhap-khau-ba) | Business Analysis | SRS · Use Case · BPMN · Figma |
 | [BA — Hệ thống Học tập MVGC](https://github.com/phamhuong-da/du-hoc-sinh-management-ba) | Business Analysis | Use Case · Figma · Draw.io · Stripe · Zoom |
-
+| [BA — Cryptowetrics: Crypto & DeFi Analytics](https://github.com/phamhuong-da/cryptowetrics-ba) | Business Analysis · Fintech | User Stories · Metric Design · Figma |
 ## 📬 Get in touch
 
 - 📧 phamhuongxii@gmail.com
