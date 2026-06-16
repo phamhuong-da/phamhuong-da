@@ -1,16 +1,17 @@
 # Hi, I'm Huong 👋
 
-I'm a **Data Analyst** based in Hanoi, Vietnam, with 3+ years of experience
-in logistics & import-export operations.
+I'm a **Data Analyst** based in Hanoi, Vietnam, with 5+ years of experience
+in logistics & import-export operations and Fintech/Crypto research.
 
 I have a thing for numbers — not because they're neat,
 but because they tell stories that words often can't.
 My job is turning messy operational data into dashboards and insights
 that help decision-makers see clearly and act fast.
 
-What makes me a bit different: I can go both ways —
-deep into the data, and upstream into the business requirements.
-So I don't just build reports. I make sure they answer the right questions.
+5+ years across two industries (logistics & Fintech/Crypto) taught me that
+data only matters when it answers the right business question.
+I go both ways — deep into the data, and upstream into the business requirements.
+So I don't just build reports. I make sure they actually drive decisions.
 
 ---
 
